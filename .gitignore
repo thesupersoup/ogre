@@ -18,3 +18,6 @@ cmake-build-*/
 
 # Ignore vim files
 *.swp
+
+# Ignore MSVC folder
+.vs/
